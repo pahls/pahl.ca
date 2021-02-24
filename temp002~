@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+  <HEAD><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+     <TITLE>
+         Photos
+     </TITLE>
+
+<!-- PowerLogger Code START -->
+<script language="JavaScript" type="text/javascript" src="pphlogger.js"></script>
+<noscript><img alt="" src="http://www.powerlogger.org/pphlogger.php?id=pahl&st=img"></noscript>
+<!-- PowerLogger Code END -->
+
+
+
+
+
+
+<STYLE>
+BODY {font-size:small; font-style:normal; font-family: "Arial";  font-weight:bold; color:black; margin-left:20; margin-top:0; background: #DFD4C4; } 
+DIV.date {font-size:x-small; font-style:italic; font-weight:bold; color:#FF8040;}
+DIV.red {font-size:26; font-style:NORMAL; font-family: "Arial"; font-weight:bold; color:#083D9B;}
+DIV.pic {font-size:16; font-style:normal; font-family: "Arial"; font-weight:bold; color:#DF796A;}
+DIV.cells {font-size:18; font-style:normal; font-family: "Arial"; font-weight:bold;}
+A:link {background:"dfd4c4"; color:blue; text-decoration:none}
+A:visited {background:"dfd4c4"; color:blue; text-decoration:none}
+A:hover {background:"DFD4C4"; color:yellow; text-decoration:none}
+A:active {background:"DFD4C4"; color:yellow; text-decoration:none}
+HR {height:4; width:75%; align:center; color:#b92533;}
+
+</STYLE>  
+</HEAD><BODY>
+
+
+
+<TABLE><TR><TH ALIGN="LEFT">
+<br>
+<center><div class=red>Fred and Viola Pahl</div></center>
+
+<BR>
+<TABLE><TR><TH ALIGN="LEFT">
+<DIV class=pic>Riddle - Which one is the "nice person" and which one is the "old grouch"???? </div>
+
+  <IMG SRC="grouch.jpg" ALT="grouch" HSPACE="0" BORDER="1" ALIGN="LEFT">
+        </TH></TR></TABLE>
+
+<br>
+
+<DIV class=pic>55th Wedding Anniversary, May 4, 2001</div>
+  <IMG SRC="m&d55.jpg" ALT="m&d" HSPACE="0" BORDER="1" ALIGN="LEFT">
+        </TH></TR></TABLE>
+     <BR>
+<TABLE><TR><TH ALIGN="LEFT">
+<DIV class=pic>Joyfully serving the Lord. Viola is playing a Hawaiian steel guitar.
+</div>
+
+  <IMG SRC="m&dguitar.jpg" ALT="m&d" HSPACE="0" BORDER="1" ALIGN="LEFT">
+        </TH></TR></TABLE>
+<br>
+<TABLE><TR><TH ALIGN="LEFT">
+<DIV class=pic>80th Birthday, September 13, 2001</div>
+
+  <IMG SRC="dad80.jpg" ALT="Dad" HSPACE="0" BORDER="1" ALIGN="LEFT">
+        </TH></TR></TABLE>
+<br><br>
+
+
+<TABLE><TR><TH ALIGN="LEFT">
+<DIV class=pic>2000</div>
+  <IMG SRC="vpbook.jpg" ALT="Viola" HSPACE="0" BORDER="1" ALIGN="LEFT">
+        </TH></TR></TABLE>
+<br>
+
+<TABLE><TR><TH ALIGN="LEFT">
+<DIV class=pic>Viola has her good days ...........</div>
+
+  <IMG SRC="vp1.jpg" ALT="Picture of Grandma" HSPACE="0" BORDER="1" ALIGN="LEFT">
+           </TH>
+<TH ALIGN="LEFT">
+<DIV class=pic>and her not-so-good days!!</div>
+
+  <IMG SRC="vp2.jpg" ALT="Picture of Grandma" HSPACE="0" BORDER="1" ALIGN="LEFT">
+           </TH>
+
+</TR></TABLE>
+
+<br>
+
+
+
+<br><HR>
+
+
+<br><div class=cells>Viola has writen a number of personal and topical books.  To read about each book, just <A HREF="books" TARGET=_blank>click on this link</a>.</div>
+<br>
+     </BODY>
+</HTML>
