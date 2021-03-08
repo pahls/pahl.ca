@@ -7,16 +7,77 @@
 <link href='http://fonts.googleapis.com/css?family=Dancing+Script:700' rel='stylesheet' type='text/css'>
 <style type="text/css">
 <!--
-body  { font-family: arial; font-weight: normal; font-size: 24px; color: black;  margin-left:6%; margin-right: 6%; text-align: justify; background:black;}
-div.body { font-family: arial; font-weight: normal; font-size: 20px; color: red;   ; }
-div.body2 { font-family: arial; font-weight: normal; font-size: 20px; color: yellow;   ; }
-div.reg { font-family: arial; font-weight: normal; font-size: 18px; color: black; text-align: justify;}
-div.title { font-family: arial; font-weight: bold; font-size: 20px; }
-div.titlebig { font-family: 'Dancing Script', cursive; font-weight: bold; font-size:100px; padding-left: 110px; padding-right: 110px; color:#67c6e6;}
-A:link {background:black; color:yellow; text-decoration:none;}
-A:visited {background:black; color:yellow; text-decoration:none;}
-A:hover {background:black; color:#3F9DE8; text-decoration:none;}
-A:active {background:black; color:yellow; text-decoration:none;}
+A:link {background:"dfd4c4"; color:blue; text-decoration:none}
+A:visited {background:"dfd4c4"; color:blue; text-decoration:none}
+A:hover {background:blue; color:yellow; text-decoration:none}
+A:active {background:blue; color:yellow; text-decoration:none}
+A.two:link {background:black;  color:white; text-decoration:none}
+A.two:visited {background:black; color:white; text-decoration:none}
+A.two:hover {background:black; color:red; text-decoration:none}
+A.two:active {background:black; color:red; text-decoration:none}
+BODY {font-size:16px; font-style:normal; font-family: "Arial";  font-weight:bold; color:black;  background:#DFD4C4; }
+DIV.main {font-size:16px; font-style:normal; font-family:"Arial";  font-weight:bold; color:black; text-align: justify; margin-right: 30;}
+DIV.title1 {font-size:16px; font-style:normal; font-family: "Arial"; font-weight:bold; color:black; text-decoration:underline;}
+HR {height:4; width:750px; align:center; color:#b92533; background-color: #b92533;}
+
+Div.tab {font-size:15; font-style:normal; font-family: "Arial";  font-weight:bold; color:black; margin-left:0; background:#DFD4C4; margin-top:2; }
+#centeredmenu {
+   float:center;
+   width:850px;
+   background:#DFD4C4;
+   border-bottom:4px solid #b92533;
+   overflow:hidden;
+   position:relative;
+}
+#centeredmenu ul {
+   clear:left;
+   float:left;
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:relative;
+   left:50%;
+   text-align:center;
+}
+#centeredmenu ul li {
+   display:block;
+   float:left;
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:relative;
+   right:50%;
+}
+#centeredmenu ul li a {
+   display:block;
+   margin:0 0 0 1px;
+   padding:3px 10px;
+   background:#DFD4C4;
+   color:#000;
+   text-decoration:none;
+   line-height:1.0em;
+}
+#centeredmenu ul li a:hover {
+   background:#0968fe;
+   color:#fff;
+}
+#centeredmenu ul li a.active,
+#centeredmenu ul li a.active:hover {
+   color:#fff;
+   background:#b92533;
+   font-weight:bold;
+ }
+ imagesinrow {   
+ 
+  margin-top:0px;
+  margin-left: auto; 
+  margin-right: auto;
+	
+}
+
+
+
+P {font-size=14; font-family: "Arial narrow"; line-height:10.5pt; text-align:"right"; }
 
 div.author {font-size: 14px; }
 div.black {font-family: arial; font-style: normal; font-weight: bold; font-size: 16px;color: black;  text-align: justify; margin-left: 15px; margin-right: 15px;}
@@ -33,7 +94,31 @@ div.nose  { font-family: arial; font-style: normal; font-weight: bold; font-size
 </style>
 </head>
 <body >
-  <div style="width:1000px">
+<div style="width:1000px">
+<center>
+
+
+<br>
+<center><img src="banner.jpg" alt="banner" width="850"></center><br>
+<div class=tab>
+<div id="centeredmenu">
+   <ul>
+      <li><a href="index.html" >Home</a></li>
+      <li><a href="news.html">News</a></li>
+      <li><a href="photos.html">Photos</a></li>
+      <li><a href="http://www.pahl.ca/penny.html">Penny's Page</a></li>			
+			<li><a href="bios.html" class="active">Bios</a></li>
+      <li><a href="morefam.html">More Family</a></li>
+      <li><a href="fredandviola.html">Viola's Website</a></li>
+			<li><a href="links.html">Links</a></li>
+      <li><a href="contacts.html">Contact</a></li>
+			
+   </ul>
+	 
+</div>
+
+</div>
+</center>
 <center><br>
 <table summary="first page" width=800px>
 <tr>
